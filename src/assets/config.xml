@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<activity>
+  <content>
+    <source source_id="Slide0">
+      <body><![CDATA[<div fontFamily="Latin"></div> ]]></body>
+      <media position="center" paddingTop="10" paddingRight="10" paddingLeft="10" paddingBottom="10">
+        <element type="image" source="data/common/word_cloud.jpg">
+          <caption>
+            <![CDATA[<p fontFamily="Latin" fontSize="24" fontStyle="italic" fontWeight="bold" textAlign="center" color="#332619">Predict the topic based on the image above</p>]]></caption>
+        </element>
+      </media>
+    </source>
+  </content>
+</activity>
